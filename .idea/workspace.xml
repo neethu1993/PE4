@@ -2,33 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c6913a92-bdbb-4831-bb08-af0d8dcd0dcc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/PE4/CountCharacterString.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/PE4/MultipleCharacterReplace.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/PE4/PatternMultipleOccur.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/PE4/RegularExpression.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/PE4/SortWords.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/PE4/StringTranspose.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/PE4/CountCharacterStringTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/PE4/MultipleCharacterReplaceTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/PE4/PatternMultipleOccurTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/PE4/RegularExpressionTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/PE4/SortWordsTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/PE4/StringTransposeTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/CountCharacterString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/stackroute/p4/CountCharacterString.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/MultipleCharacterReplace.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/stackroute/p4/MultipleCharacterReplace.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/PatternMultipleOccur.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/stackroute/p4/PatternMultipleOccur.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/RegularExpression.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/stackroute/p4/RegularExpression.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/SortWords.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/stackroute/p4/SortWords.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/StringTranspose.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/stackroute/p4/StringTranspose.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/tests/CountCharacterStringTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/tests/com/stackroute/p4/CountCharacterStringTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/tests/MultipleCharacterReplaceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/tests/com/stackroute/p4/MultipleCharacterReplaceTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/tests/PatternMultipleOccurTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/tests/com/stackroute/p4/PatternMultipleOccurTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/tests/RegularExpressionTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/tests/com/stackroute/p4/RegularExpressionTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/tests/SortWordsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/tests/com/stackroute/p4/SortWordsTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/tests/StringTransposeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/tests/com/stackroute/p4/StringTransposeTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -259,7 +233,7 @@
     <property name="Repository.Attach.Annotations" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547196501873" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547205952789" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../sample" />
@@ -393,8 +367,7 @@
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="67" y="25" width="1299" height="743" extended-state="6" />
-    <editor active="true" />
+    <frame x="67" y="25" width="1299" height="743" extended-state="7" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25778133" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
