@@ -1,3 +1,6 @@
+package com.stackroute.p4;
+
+import com.stackroute.p4.PatternMultipleOccur;
 import org.junit.After;
 import org.junit.Before;
 import org.junit.Test;
@@ -20,33 +23,33 @@ public class PatternMultipleOccurTest {
     }
 
     @Test
-    public void testPatternmultipleOccurMethodSuccess() {
+    public void testPatternMultipleOccurMethodSuccess() {
         List<String> expected = new ArrayList<>();
         expected.add("Found at: 4 - 6");
         expected.add("Found at: 10 - 12");
         expected.add("Found at: 27 - 29");
-        assertEquals(expected,patternMultipleOccur.patternmultipleOccurMethod("She sells seashells by the seashore"));
+        assertEquals(expected,patternMultipleOccur.patternMultipleOccurMethod("She sells seashells by the seashore"));
     }
 
     @Test
-    public void testPatternmultipleOccurMethodFailure() {
+    public void testPatternMultipleOccurMethodFailure() {
         List<String> expected = new ArrayList<>();
         expected.add("Found at: 4 - 6");
         expected.add("Found at: 10 - 12");
         expected.add("Found at: 27 - 28");
-        assertNotEquals(expected,patternMultipleOccur.patternmultipleOccurMethod("She sells seashells by the seashore"));
+        assertNotEquals(expected,patternMultipleOccur.patternMultipleOccurMethod("She sells seashells by the seashore"));
     }
 
     @Test
-    public void testPatternmultipleOccurMethodNeutral() {
+    public void testPatternMultipleOccurMethodNeutral() {
 
-        assertNull(patternMultipleOccur.patternmultipleOccurMethod("She is sweet"));
+        assertNull(patternMultipleOccur.patternMultipleOccurMethod("She is sweet"));
     }
 
     @Test(expected = NullPointerException.class)
     public void testInvalidValue()
     {
-        assertNull(patternMultipleOccur.patternmultipleOccurMethod(null));
+        assertNull(patternMultipleOccur.patternMultipleOccurMethod(null));
 
     }
 }

@@ -1,8 +1,9 @@
+package com.stackroute.p4;
+
+import com.stackroute.p4.CountCharacterString;
 import org.junit.After;
 import org.junit.Before;
 import org.junit.Test;
-
-import java.util.concurrent.ExecutionException;
 
 import static org.junit.Assert.*;
 
